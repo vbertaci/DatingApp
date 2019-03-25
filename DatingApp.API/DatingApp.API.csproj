@@ -24,5 +24,6 @@
     <PackageReference Include="Microsoft.Extensions.Primitives" Version="2.2.0"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.2"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="2.2.2"/>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="4.0.1"/>
   </ItemGroup>
 </Project>
